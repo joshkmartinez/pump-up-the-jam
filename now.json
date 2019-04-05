@@ -1,6 +1,6 @@
 {
   "name": "Pump up the jam",
-  "alias": ["pump", "pumpUpTheJam"],
+  "alias": ["pumpUpTheJam", "pumpUp"],
   "version": 2,
   "builds": [{ "src": "index.js", "use": "@now/node" }],
   "github": {
